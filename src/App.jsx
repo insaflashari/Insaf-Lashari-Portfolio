@@ -12,6 +12,16 @@ function App() {
     <>
       <TopBanner />
       <Hero />
+      
+      {/* New paragraph section */}
+      <section className="bioSection">
+        <div className="bioContainer">
+          <p>
+            Passionate about building innovative software, exploring cybersecurity, and creating apps and games. I love learning new technologies and collaborating on projects that challenge me.
+          </p>
+        </div>
+
+      </section>
       <Projects />
       <Skills />
       <Contact />

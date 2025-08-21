@@ -43,7 +43,7 @@ const linkedinIcon = theme === 'light' ? linkedinLight : linkedinDark;
         </h1>
         <h2>Computer Engineering Student</h2>
         <span>
-            <a href="https://twitter.com/" target="_blank">
+            <a href="https://www.instagram.com/insaf.ink/" target="_blank">
               <img src={twitterIcon} alt="Twitter icon"/>
             </a>
             <a href="https://github.com/insaflashari" target="_blank">
