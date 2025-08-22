@@ -4,6 +4,8 @@ import adventure from '../../assets/adventure.png';
 import ProjectCard from '../../common/ProjectCard';
 import aws from '../../assets/aws.png';
 import tempctrl from '../../assets/tempctrl.png';
+import geesespotter from '../../assets/geesespotter.png';
+import light from '../../assets/light.png';
 
 
 
@@ -27,14 +29,26 @@ function Projects() {
             <ProjectCard 
               src={aws} 
               link="https://github.com/insaflashari/AWS-Project" 
-              h3="Amazon AWS Project"
-              p="Uses Amplify, Lambda, IAM, API Gateway and DynamoDB"
+              h3="AWS Project"
+              p="Uses 5 AWS Services"
             />
             <ProjectCard 
               src={tempctrl} 
               link="https://github.com/insaflashari/ECE124-Labs" 
               h3="TempCtrl"
-              p="Energy Monitoring & HVAC FPGA Project"
+              p="Energy Monitoring & HVAC FPGA"
+            />
+            <ProjectCard 
+              src={geesespotter} 
+              link="https://github.com/insaflashari/Geesespotter" 
+              h3="GeeseSpotter"
+              p="Game for ECE 150"
+            />
+            <ProjectCard 
+              src={light} 
+              link="https://github.com/insaflashari/ECE124-Labs" 
+              h3="VeriLight"
+              p="Traffic Light Controller"
             />
         </div>
     </section>
