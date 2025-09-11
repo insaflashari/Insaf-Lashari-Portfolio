@@ -17,7 +17,8 @@ function App() {
       <section className="bioSection">
         <div className="bioContainer">
           <p>
-            Passionate about building innovative software, exploring cybersecurity, and creating apps and games. I love learning new technologies and collaborating on projects that challenge me.
+            Hi, my name is Insaf Lashari! I'm a 2nd-year Computer Engineering student at the University of Waterloo.
+            I’m passionate about building innovative software, exploring cybersecurity, and creating apps and games. I love learning new technologies and collaborating on projects that challenge me to grow and make an impact.
           </p>
         </div>
 
